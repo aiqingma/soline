@@ -4,3 +4,9 @@ function func(){
   pass
 }
 '''
+
+
+'''py
+def aa():
+    pass
+'''
